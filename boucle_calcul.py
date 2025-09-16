@@ -1,6 +1,6 @@
 import requests
 
-URL = "https://cyber-learning.fr/cyber-challenge/programmation/calcul2/sujet.php?jeton=xOGEpWWcjI13"
+URL = "https://cyber-learning.fr/cyber-challenge/programmation/calcul50/sujet.php?jeton=5CY2Bp7Jf310"
 
 session = requests.session()
 reponse = session.get(URL)
