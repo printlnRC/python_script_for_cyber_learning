@@ -1,6 +1,6 @@
 import requests # bibliothèque spécialisée pour les échanges http/https
 
-URL = "https://cyber-learning.fr/cyber-challenge/programmation/socket/sujet.php?jeton=XYlXxxzX1234"
+URL = "https://cyber-learning.fr/cyber-challenge/programmation/socket/sujet.php?jeton=EB0SRa0w5311"
 
 # 1. On se connecte au serveur
 session = requests.session() # Il est capital de garder la session pour renvoyer la réponse
